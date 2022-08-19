@@ -55,11 +55,12 @@ bot.on('message', (msg) => {
 
 Currently there's only two APIs.
 
-|---     Name    ---|---          Description          ---|
-|      `bot.on`     |      Create a listener for bot      |
+|        Name       |             Description             |
+|        ---        |                ---                  |
+|      `bot.on`     | Create a listener for bot           |
 | `bot.sendMessage` | Send message to gourp which bot are |
 
-About the detail of these two APIs, see example.mjs
+About the detail of these two APIs, see [example.mjs](https://github.com/MisaLiu/idns-chat-bot/blob/master/example.mjs).
 
 ## Thanks to
 
@@ -68,4 +69,4 @@ About the detail of these two APIs, see example.mjs
 
 ## LICENSE
 
-See LICENSE.
+See [LICENSE](https://github.com/MisaLiu/idns-chat-bot/blob/master/LICENSE).
