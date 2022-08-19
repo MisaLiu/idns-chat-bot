@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "superagent": "^7.1.2",
+    "websocket": "^1.0.34"
+  },
+  "name": "idns-chat-bot",
+  "version": "1.0.0",
+  "description": "Bot library for iDNS chatroom",
+  "main": "example.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MisaLiu",
+  "license": "MIT"
+}
